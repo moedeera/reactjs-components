@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid grey;
+  width: 95%;
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 10px;
+}
+
+.selected {
+  border-bottom: 1px solid blue;
+}
